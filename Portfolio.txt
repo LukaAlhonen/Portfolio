@@ -1,0 +1,23 @@
+Portfolio structure
+
+1. About
+- Name, age, education, where do i study and live, who am I as a person and an employee
+- Strengths and weaknesses
+2. Relevant experience
+- What IT skills do I have and what technologies and programming languages do I know
+- Computer Science concepts I have knowledge of
+- Could mention if I have taken courses in these subjects
+3. Projects
+- List of projects that I have done over the years, including course projects
+- Each project has a title, short description, img/gif and a 'learn more' button, which expands the project and gives a more detailed description with more images/gifs
+4. Contact me
+- Email, phone number, address, linkedin etc
+
+Portfolio implementation
+- One long page
+- Menu bar at top which scrolls down to section that is clicked on
+- As one scrolls down the current section is highlighted in the menu bar
+- Individual project pages have own endpoints
+- Menu bar at top should be collapsable
+- Hosted on firebase
+
